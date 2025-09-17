@@ -31,22 +31,22 @@ export default function Navbar() {
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/about">
+              <Link className="nav-link active " to="/about">
                 About
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/courses">
+              <Link className="nav-link active" to="/courses">
                 Courses
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/news">
+              <Link className="nav-link active" to="/news">
                 News
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/login">
+              <Link className="nav-link active" to="/login">
                 Login
               </Link>
             </li>
